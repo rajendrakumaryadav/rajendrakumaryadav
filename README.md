@@ -64,6 +64,7 @@
 
 [![OCI BADGE](https://brm-workforce.oracle.com/pdf/certview/images/50_Oracle_Cloud_Infrastructure.png "Certification Badge")](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DB821236EBED00E8B43E393C33A74D62435D4ADE60A6DEB33F3680820BE9B0F0)
 [![Java Certification](https://user-images.githubusercontent.com/13816347/135497596-e4f3dd56-6147-47a7-ae76-120588cae123.png "Java Beginner Badge")](https://user-images.githubusercontent.com/13816347/135497596-e4f3dd56-6147-47a7-ae76-120588cae123.png)
+[![data_analyst_associate_badge](https://user-images.githubusercontent.com/13816347/212951901-ea2da45a-68ec-4bf8-b165-37998c67806f.svg)](https://www.datacamp.com/certificate/DAA0017716531459)
 
 ---
 
