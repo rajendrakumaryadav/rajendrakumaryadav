@@ -68,6 +68,10 @@
 
 ---
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="yadavrajendrakumar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/yadavrajendrakumar?trk=profile-badge">Rajendra Kumar Yadav</a></div>
+
+---              
+
 ### 🛰️ Some status
 
 ---
